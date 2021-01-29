@@ -1,0 +1,5 @@
+#!/bin/sh
+
+SITAT_FILE="motivation/sitater"
+
+sort --random-sort $SITAT_FILE | head -n 1

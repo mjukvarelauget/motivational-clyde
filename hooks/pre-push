@@ -1,0 +1,4 @@
+
+SOUND_FILE="motivation/aaaaaa-har.m4a"
+
+afplay $SOUND_FILE
